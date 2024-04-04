@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-09-02T03:11:11Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.2,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "flexNT2_V1.0"
+        },
+        "Owner": "Cory Lord <jabberwocky731@gmail.com>",
+        "Size": {
+            "X": 38,
+            "Y": 5.9
+        }
+    }
+}
