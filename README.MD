@@ -4,8 +4,8 @@ This device is a miniaturised NFC tag that also powers a RGB auto cycling LED.
 ![Top Side PCB Render](/IMG/flexNT2_V1.0_Back.png)
 
 ## Demos:
-Fast Falsh vs Slow Falsh - https://www.youtube.com/shorts/PIb9lqYM2UI
-Range Test - https://www.youtube.com/watch?v=-AcRS_bvTmE
+- Fast Falsh vs Slow Falsh - https://www.youtube.com/shorts/PIb9lqYM2UI
+- Range Test - https://www.youtube.com/watch?v=-AcRS_bvTmE
 
 ## Schematic
 ![Schematic](/IMG/flexNT2_V1.0_Schematic.png)
